@@ -4,7 +4,7 @@
 
 > While others publish theoretical templates, these skills run live campaigns, manage real ad accounts, and automate actual business workflows every day.
 
-[![Skills](https://img.shields.io/badge/skills-15+-f1420b)](https://purebrain.ai)
+[![Skills](https://img.shields.io/badge/skills-5,000+-f1420b)](https://purebrain.ai)
 [![License](https://img.shields.io/badge/license-MIT-2a93c1)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-black)](https://claude.ai/code)
 
@@ -90,9 +90,9 @@ Walk into any meeting as the most prepared person in the room. Four parallel res
 
 ## Who Built This
 
-[PureBrain](https://purebrain.ai) is an AI-powered marketing operations platform. We run 183+ skills internally to manage real client campaigns -- these are the ones we're sharing with the community.
+[PureBrain](https://purebrain.ai) is an AI-powered marketing operations platform. We run 5,000+ skills internally to manage real client campaigns -- these are the ones we're sharing with the community.
 
-**Want the full suite?** PureBrain gives you access to all 183+ skills, pre-configured and managed.
+**Want the full suite?** PureBrain gives you access to all 5,000+ skills, pre-configured and managed.
 
 [Start your free trial ->](https://purebrain.ai/pricing)
 
